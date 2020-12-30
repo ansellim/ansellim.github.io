@@ -6,10 +6,10 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### Hi there
 
-A place to include any other types of information that you'd like to include about yourself.
+My email is ansel@comp.nus.edu.sg.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ansel@comp.nus.edu.sg](mailto:ansel@comp.nus.edu.sg)
